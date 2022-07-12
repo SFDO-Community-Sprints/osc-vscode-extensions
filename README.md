@@ -7,7 +7,7 @@ The project generates a package file (.vsix) that is installed through the VSCod
 2. Launch Visual Studio Code
 3. Open the command palette
 4. Type `VSIX` and select `Extensions: Install from VSIX...`
-5. Select the file `attain-partners-base-0.0.1.vsix`
+5. Select the file you downloaded
 6. If you have revised the package and are testing the new file open the command palette and type `Reload` and select a reload window option to ensure successful completion.
 
 # Development
