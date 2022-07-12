@@ -1,0 +1,27 @@
+# README
+You can install this extension pack in VS Code to quickly set up the tools many of our teams use.
+
+# Installation 
+The project generates a package file (.vsix) that is installed through the VSCode
+1. Download the file from the packages section in the sidebar
+2. Launch Visual Studio Code
+3. Open the command palette
+4. Type `VSIX` and select `Extensions: Install from VSIX...`
+5. Select the file `attain-partners-base-0.0.1.vsix`
+6. If you have revised the package and are testing the new file open the command palette and type `Reload` and select a reload window option to ensure successful completion.
+
+# Development
+To make changes to this extension pack:
+
+- Clone the repo: <br>`$ git clone https://github.com/attain-ssg/vscode-extension-pack.git`
+- Make your changes.
+- Install vsce (the CLI tool for managing VS Code extensions): <br> `$ npm install -g vsce`
+- Build the extension file: <br>`$ vsce package`
+
+# Publishing
+_We're not currently doing this, and would make the package public if we did._
+
+- Create a publisher: <br>`$ vsce create-publisher <publisher-name>`
+- Login: <br>`$ vsce login <publisher-name>`
+- Publish <br>`$ vsce publish`
+
