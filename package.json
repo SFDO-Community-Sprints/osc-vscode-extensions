@@ -2,7 +2,7 @@
   "name": "open-source-commons",
   "displayName": "SFDO Open Source Commons",
   "description": "A lightweight extension pack to support contributors to the Open Source Commons of Salesforce",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "publisher": "SFDO Open Source Commons",
   "engines": {
     "vscode": "^1.61.0"
@@ -21,7 +21,8 @@
     "streetsidesoftware.code-spell-checker",
     "mhutchie.git-graph",
     "oderwat.indent-rainbow",
-    "github.vscode-pull-request-github"
+    "github.vscode-pull-request-github",
+    "eamodio.gitlens"
   ],
   "repository": {
     "type": "git",
