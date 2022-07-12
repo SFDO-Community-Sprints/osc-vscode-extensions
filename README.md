@@ -21,7 +21,7 @@ To make changes to this extension pack:
 # Publishing
 _We're not currently doing this, and would make the package public if we did._
 
-- Create a publisher: <br>`$ vsce create-publisher <publisher-name>`
+- Create a publisher:  https://aka.ms/vscode-create-publisher
 - Login: <br>`$ vsce login <publisher-name>`
 - Publish <br>`$ vsce publish`
 
