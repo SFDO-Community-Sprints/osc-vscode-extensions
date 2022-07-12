@@ -2,7 +2,7 @@
   "name": "open-source-commons",
   "displayName": "SFDO Open Source Commons",
   "description": "A lightweight extension pack to support contributors to the Open Source Commons of Salesforce",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "SFDO Open Source Commons",
   "engines": {
     "vscode": "^1.61.0"
