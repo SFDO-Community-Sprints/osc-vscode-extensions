@@ -13,7 +13,7 @@ The project generates a package file (.vsix) that is installed through the VSCod
 # Development
 To make changes to this extension pack:
 
-- Clone the repo: <br>`$ git clone https://github.com/attain-ssg/vscode-extension-pack.git`
+- Clone the repo
 - Make your changes.
 - Install vsce (the CLI tool for managing VS Code extensions): <br> `$ npm install -g vsce`
 - Build the extension file: <br>`$ vsce package`
