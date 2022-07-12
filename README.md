@@ -3,7 +3,7 @@ You can install this extension pack in VS Code to quickly set up the tools many 
 
 # Installation 
 The project generates a package file (.vsix) that is installed through the VSCode
-1. Download the file from the Releases section in the sidebar
+1. Download the .vsix file from the Releases section in the sidebar
 2. Launch Visual Studio Code
 3. Open the command palette
 4. Type `VSIX` and select `Extensions: Install from VSIX...`
