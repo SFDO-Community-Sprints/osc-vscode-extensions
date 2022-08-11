@@ -1,5 +1,7 @@
 # README
-You can install this extension pack in VS Code to quickly set up the tools many of our teams use.
+This extension pack will make VS Code easier to use for contributors to Open Source Commons projects by adding helpful formatting, editing, and usability features.
+
+The extension pack will "stick" with VS Code regardless of the Repo you are working in.
 
 # Installation 
 (Go to the VS Code Marketplace)[https://marketplace.visualstudio.com/items?itemName=SalesforceOrgOpenSourceCommons.open-source-commons] and click **Install.**
